@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kdahiya-hc" alt="kdahiya-hc" /></a> </p>
 
-- 🌱 I’m currently learning to develop actual applications. **Machine Learning, MERN Stack applications**
+- 🌱 I’m currently learning to develop applications.
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/kishan-dahiya/](https://www.linkedin.com/in/kishan-dahiya/)
 
