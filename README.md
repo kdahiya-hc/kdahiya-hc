@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kishan Dahiya.</h1>
 <h3 align="center">A beginner developer from India. Currently working in Tokyo.</h3>
-<img style="display: block; margin: 0 auto; max-width: 100%; height: auto;" alt="coding" src="https://media.tenor.com/5_O6rMBhvfAAAAAe/nayeon-twice.png"/>
+<img align="center" alt="coding" width="100%" src="https://media.tenor.com/5_O6rMBhvfAAAAAe/nayeon-twice.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kdahiya-hc&label=Profile%20views&color=0e75b6&style=flat" alt="kdahiya-hc" /> </p>
 
