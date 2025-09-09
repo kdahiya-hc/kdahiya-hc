@@ -6,9 +6,9 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=KishanDahiya&label=Profile%20Views&color=0e75b6&style=flat" alt="views"/>
+  <img src="https://komarev.com/ghpvc/?username=kdahiya-hc&label=Profile%20Views&color=0e75b6&style=flat" alt="views"/>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=KishanDahiya&theme=gruvbox&margin-w=5&no-frame=true" alt="trophies"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=kdahiya-hc&theme=gruvbox&margin-w=5&no-frame=true" alt="trophies"/>
   </a>
 </p>
 
@@ -22,9 +22,9 @@
 
 ### 📊 GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KishanDahiya&show_icons=true&theme=tokyonight" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KishanDahiya&layout=compact&theme=tokyonight" alt="langs" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KishanDahiya&theme=tokyonight" alt="streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kdahiya-hc&show_icons=true&theme=tokyonight" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kdahiya-hc&layout=compact&theme=tokyonight" alt="langs" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kdahiya-hc&theme=tokyonight" alt="streak" />
 </p>
 
 ---
@@ -34,7 +34,7 @@
   <a href="https://linkedin.com/in/kishan-dahiya" target="blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="40" />
   </a>
-  <a href="https://github.com/KishanDahiya" target="blank">
+  <a href="https://github.com/kdahiya-hc" target="blank">
     <img src="https://skillicons.dev/icons?i=github" width="40" />
   </a>
 </p>
