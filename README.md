@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kishan Dahiya</h1>
-<h3 align="center">Backend Developer | AI Enthusiast | Based in Tokyo 🇯🇵</h3>
+<h3 align="center">Backend Developer | Based in Tokyo 🇯🇵</h3>
 
 <p align="center">
   <img src="https://media.tenor.com/5_O6rMBhvfAAAAAe/nayeon-twice.png" width="70%" alt="Coding GIF"/>
